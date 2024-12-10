@@ -1,0 +1,23 @@
+{
+  "name": "trainer",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "deploy": "gh-pages -d dist"
+  },
+  "devDependencies": {
+    "@types/js-cookie": "^3.0.6",
+    "gh-pages": "^6.1.1",
+    "typescript": "^5.5.3",
+    "vite": "^5.3.4"
+  },
+  "dependencies": {
+    "js-cookie": "^3.0.5",
+    "phaser": "^3.80.1",
+    "ts-md5": "^1.3.1"
+  }
+}

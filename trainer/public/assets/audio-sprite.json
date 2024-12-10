@@ -1,0 +1,48 @@
+{
+  "resources": [
+    "assets/audio.ogg",
+    "assets/audio.mp3"
+  ],
+  "spritemap": {
+    "levelScore2": {
+      "start": 0,
+      "end": 10.51201814058957,
+      "loop": false
+    },
+    "score0": {
+      "start": 12,
+      "end": 12.57469387755102,
+      "loop": false
+    },
+    "score1": {
+      "start": 14,
+      "end": 16.064013605442177,
+      "loop": false
+    },
+    "score2": {
+      "start": 18,
+      "end": 21.91201814058957,
+      "loop": false
+    },
+    "bell": {
+      "start": 23,
+      "end": 25.463038548752834,
+      "loop": false
+    },
+    "buzzer": {
+      "start": 27,
+      "end": 27.04873015873016,
+      "loop": false
+    },
+    "start": {
+      "start": 29,
+      "end": 30.275396825396825,
+      "loop": false
+    },
+    "typewriter": {
+      "start": 32,
+      "end": 39.15804988662131,
+      "loop": false
+    }
+  }
+}

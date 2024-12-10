@@ -1,0 +1,2 @@
+include LICENSE
+include risc_kana_layout/data/*.txt

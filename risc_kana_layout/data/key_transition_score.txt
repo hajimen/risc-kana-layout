@@ -1,0 +1,144 @@
+q		
+	w	3
+	e	2
+	r	2
+	a	4
+	s	4
+	d	4
+	f	2
+	v	4
+w		
+	e	1
+	r	1
+	a	4
+	s	4
+	d	2
+	f	1
+	g	4
+	v	4
+e		
+	r	1
+	a	3
+	s	4
+	d	4
+	f	1
+	g	4
+	v	3
+r		
+	a	3
+	s	4
+	d	4
+	f	4
+	g	4
+	v	4
+a		
+	s	1
+	d	2
+	f	3
+	g	4
+	z	4
+	x	3
+	c	2
+	v	3
+s		
+	d	1
+	f	1
+	g	4
+	z	4
+	x	4
+	c	2
+	v	1
+	b	4
+d		
+	f	1
+	g	4
+	z	4
+	x	4
+	c	3
+	v	1
+	b	4
+f		
+	g	4
+	z	3
+	x	4
+	c	4
+	v	3
+	b	4
+g		
+	x	4
+	c	4
+	v	4
+	b	4
+z		
+	x	1
+	c	2
+	v	3
+	b	4
+x		
+	c	1
+	v	1
+	b	4
+c		
+	v	1
+	b	4
+v		
+	b	4
+y		
+	u	4
+	i	4
+	o	4
+u		
+	i	1
+	o	1
+	p	3
+	j	4
+	h	4
+i		
+	o	1
+	p	3
+	h	4
+	j	1
+	k	4
+	l	3
+	n	3
+o		
+	p	3
+	h	4
+	j	1
+	k	3
+	l	4
+	n	3
+	m	4
+p		
+	j	2
+	k	3
+	l	3
+	n	4
+	m	4
+h		
+	j	4
+	k	4
+	l	4
+	n	4
+	m	4
+	,	4
+j		
+	k	1
+	l	1
+	n	3
+	m	4
+	,	2
+k		
+	l	1
+	n	1
+	m	2
+	,	3
+l		
+	n	1
+	m	2
+	,	3
+n		
+	m	1
+	,	1
+m		
+	,	1

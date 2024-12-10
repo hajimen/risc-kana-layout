@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>RISCかな配列練習器</title>
+    <link rel="preload" href="./assets/SourceCodePro-Regular.woff2" as="font" type="font/woff2">
+    <link rel="preload" href="./assets/NotoSansJP-Regular.woff2" as="font" type="font/woff2">
+    <link rel="preload" href="./assets/MonomaniacOne-Regular.woff2" as="font" type="font/woff2">
+    <link rel="apple-touch-icon" sizes="180x180" href="./assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="./assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="./assets/favicon-16x16.png">
+    <link rel="manifest" href="./site.webmanifest">
+    <style>
+      @font-face {
+          font-family: source-code;
+          src: url('./assets/SourceCodePro-Regular.woff2');
+      }
+      @font-face {
+        font-family: noto-sans-jp;
+        src: url('./assets/NotoSansJP-Regular.woff2');
+      }
+      @font-face {
+        font-family: monomaniac-one;
+        src: url('./assets/MonomaniacOne-Regular.woff2');
+      }
+      body {
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="app"></div>
+    <script type="module" src="/src/main.ts"></script>
+    <div style="font-family:monomaniac-one; position:absolute; left:-1000px; visibility:hidden;">.</div>
+    <div style="font-family:source-code; position:absolute; left:-1000px; visibility:hidden;">.</div>
+    <div style="font-family:noto-sans-jp; position:absolute; left:-1000px; visibility:hidden;">.</div>
+  </body>
+</html>
